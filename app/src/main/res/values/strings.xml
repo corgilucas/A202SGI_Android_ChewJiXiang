@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SillyMathQuiz</string>
+
+    <string name="toast">Excellent!</string>
+</resources>
